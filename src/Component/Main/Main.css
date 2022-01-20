@@ -1,0 +1,410 @@
+ *{
+    margin: 0;
+    padding: 0;
+   
+}
+/* .tdiv{
+    width: 100%;
+    height:95vh;
+    position: relative;
+    
+}
+.headpro{
+    position: absolute;
+    top: 53%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.logbutton{
+    position: absolute;
+    top: 68%;
+    left: 52.5%;
+    transform: translate(-65%,-50%);
+}
+.signupbtn{
+    position: absolute;
+    top:79%;
+    left: 53.5%;
+    transform: translate(-70%,-50%);
+}
+.termc{
+    position: absolute;
+    top: 96%;
+    left: 53.5%;
+    transform: translate(-80%,-52%);
+}
+.logbutton button{
+    width: 300px;
+    height: 48px;
+    border-radius: 50px;
+    color: white;
+    border: 3px solid black;
+    background: #003580;
+    font-size: 20px;
+    font-weight: 800;
+
+}
+.signupbtn button{
+    width: 300px;
+    height: 48px;
+    border-radius: 50px;
+    color: white;
+    border: 3px solid black;
+    background: #009DE6;
+    font-size: 20px;
+    font-weight: 800;
+
+}
+.headpro h1{ 
+    font-size: 50px;
+    font-family: system-ui;
+    font-weight: bolder;
+    font-style: italic;
+
+}
+.logodiv{
+  position: absolute;
+  top: 3;
+  left: 39%;
+}
+.logodiv img{
+    width: 320px;
+}
+.logodiv1{
+    position: absolute;
+    top: 0%;
+    left: 42.5%;
+  }
+  .logodiv1 img{
+      width: 240px;
+  }
+  .lh1{
+    position: absolute;
+    top: 150px;
+    left: 47%;
+    font-size: 20px;
+    font-family: system-ui;
+    font-weight: bolder;
+    font-style: italic;
+  }
+  .msglogin{
+    position: absolute;
+    top: 222px;
+    left: 41%;
+  }
+  .form1{
+      
+    position: relative;
+    top: 275px;
+    left: 40%;
+
+  }
+  .form1 input{ 
+    width: 300px;
+    height: 40px;
+    border-radius: 10px;
+    border: 3px solid black;  
+    padding-left: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #033481;
+  }
+  .form1 label{
+    margin-left: 10px;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bolder;
+    font-family: emoji;
+  }
+  .logbutton1{ 
+    position: absolute;
+    left: 43.5%;
+    top: 470px;
+
+   
+}
+.logbutton1 button{
+  width: 200px;
+  height: 44px;
+  border-radius: 50px;
+  color: white;
+  border: 3px solid black;
+  background: #003580;
+  font-size: 20px;
+    font-family: system-ui;
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+    align-items: center;
+}
+.ltdiv1{
+  position: relative;
+  width: 100%;
+  height: 90vh;
+  overflow-y: hidden;
+  overflow-x: hidden;
+  
+}
+a{
+  text-decoration: none !important;
+}
+.logbutton1 p{
+  align-items: center;
+  text-align: center;
+  font-weight: bolder;
+}
+.dsigndiv h3{
+  align-items: center;
+  text-align: center;
+  position: relative;
+  top: 400px;
+  color: #009CE6;
+}
+.msglogin p{
+  color: gray;
+  font-weight: bolder;
+}
+.signbutton1{ 
+  position: absolute;
+  left: 43.5%;
+  top: 550px;
+ 
+}
+.signbutton1 button{
+  width: 200px;
+  height: 44px;
+  border-radius: 50px;
+  color: white;
+  border: 3px solid black;
+  background: #009CE6;
+  font-size: 20px;
+    font-family: system-ui;
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+    align-items: center;
+}
+.dsigndiv1 h3 {
+  align-items: center;
+  text-align: center;
+  position: relative;
+  top: 350px;
+  color: #003880;
+}
+.msglogin1{
+  position: absolute;
+  top: 222px;
+  left: 44%;
+  color: gray;
+    font-weight: bolder;
+}
+.ldh1 {
+  position: absolute;
+  top: 150px;
+  left: 45%;
+  font-size: 20px;
+  font-family: system-ui;
+  font-weight: bolder;
+  font-style: italic;
+}
+ a button :hover{
+  transform: scale(1.1);
+  height: 80px;
+}
+.hovereff:hover{
+  transform: scale(1.1);
+  box-shadow: 5px 5px 6px black;
+}
+.termc h3{
+  color: blue;
+} */
+.hdiv1{
+  width: 100%;
+  height: 10vh;
+  position: relative;
+}
+.bgclass{
+  width: 100%;
+  height: 100%;
+}
+.hdiv1i{
+  position: absolute;
+  top: 0;
+  left: 47%;
+  
+}
+.hdiv1i img{
+  width: 100px;
+  height: 702x;
+}
+.hdiv2{
+  position: relative;
+  height: 50vh;
+}
+.hdiv2t{
+  width: 100%;
+  display: flex;
+}
+.hdiv2tl{
+  width: 50%;
+  position: relative;
+}
+.hdiv2tr{
+  width: 50%;
+  position: relative;
+
+}
+#imgicon{
+  width: 200px !important;
+  border-radius: 10px;
+  border: 4px solid black;
+}
+ .imgmove{
+  top: 50%;
+    left: 50%;
+    text-align: center;
+    transform: translate(-50%, -15%);
+    position: absolute;
+} 
+
+
+.img2cls{
+  position: absolute;
+    top: 111px;
+    left: 61.5%;
+    width: 190px !important;
+    height: 140px;
+}
+.img1cls{
+  position: absolute;
+  top: 111px;
+  left: 22%;
+}
+.img3cls{
+  position: absolute;
+  top: 380px;
+  left: 335px;
+  width: 210px !important;
+}
+.img4cls{
+  position: absolute;
+  top: 375px;
+  right: 380px;
+  height: 120px;
+}
+.footdivh{
+  width: 100%;
+  height: 80px;
+  position: absolute;
+  bottom: 0px;
+}
+.imgfoot{
+  width: 100%;
+  height: 100%;
+}
+.h3cls1{
+  position: absolute;
+    top: 275px;
+    left: 392px;
+}
+.h3cls2{
+  top: 270px;
+  right: 443px;
+  /* left: 280px; */
+  position: absolute;
+}
+.h3cls3{
+  position: absolute;
+  left: 385px;
+  top: 507px;
+}
+.h3cls4{
+  position: absolute;
+  top: 510px;
+  right: 430px;
+}
+.bottomimgsize{
+  width: 50px;
+}
+.footdivh1{
+  position: relative;
+}
+.seticon{
+  position: absolute;
+  top: 91%;
+  left: 25%;
+}
+
+.homeicon{
+  position: absolute;
+  top: 91%;
+    left: 50%;
+}
+.logicon{
+  
+  position: absolute;
+  top: 91%;
+  right: 24%;
+
+}
+.imgcur{
+  cursor: pointer;
+}
+.hdiv2tl img :hover{
+ transform: translate(1.1);
+}
+.emercall1{
+  position: relative;
+  left: 45%;
+}
+.h3cls11{
+  position: absolute;
+  top: 246px;
+  left: 399px;
+}
+.emercall2{
+  position: relative;
+  top: 200px;
+}
+.dh3cls2{
+  top: 324px;
+    left: 290px;
+    position: absolute;
+}
+/* .dimg3cls {
+  position: absolute;
+  top: 287px;
+  left: 333px;
+  width: 210px !important;
+} */
+.dh3cls3 {
+  position: absolute;
+  left: 400px;
+  top: 530px;
+}
+.aimgicon:hover {
+  transform: scale(1.1);
+}
+.ah3cls:hover {
+    color:#009DE6 ;
+    transform: scale(1.1);
+}
+.ah3cls1:hover {
+  color:#009DE6 ;
+  transform: scale(1.1);
+  text-shadow: 5px 5px 6px black;
+}
+.hovterms:hover {
+  color:red ;
+}
+.iframe13{
+  position: relative;
+  left: 180px;
+}
+.iframe24{
+  position: relative;
+  left: 180px;
+} 
+.heightcls{
+  height: 150px;
+}
